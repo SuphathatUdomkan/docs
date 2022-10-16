@@ -37,3 +37,4 @@ When you downgrade or cancel a sponsorship, the change will become effective on 
   ![Cancel sponsorship button](/assets/images/help/billing/edit-sponsor-billing.png)
 4. Review the information about canceling your sponsorship, then click **OK**.
   ![Cancellation confirmation box](/assets/images/help/billing/confirm-sponsorship-cancellation.png)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
